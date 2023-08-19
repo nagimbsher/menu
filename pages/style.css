@@ -4,3 +4,10 @@ body  {
 h1{
     color:blue;
 }
+table, th, td {
+    border:1px solid white;
+    text-align: center;
+    font-size: 30px;
+    text-align-last: auto;
+    -webkit-text-stroke-width: 20;
+}
