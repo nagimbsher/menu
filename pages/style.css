@@ -4,11 +4,4 @@ body  {
 h1{
     color:blue;
 }
-table, th, td {
-    color:blue;
-    border:1px solid white;
-    text-align: center;
-    font-size: 30px;
-    text-align-last: auto;
-    -webkit-text-stroke-width: 20;
-}
+
